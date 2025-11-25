@@ -16,7 +16,7 @@ Billed-App-Fullstack/
 ```
 
 #### Page de connexion
-![Login](screenshots/login-page.png)
+![Login](Billed-app-FR-Front/screenshots/login-page.png)
 
 
 ## 🎯 Travail réalisé
@@ -38,10 +38,10 @@ Billed-App-Fullstack/
 ## 📸 Résultats des tests
 
 #### Tests Jest - 57 tests passent avec succès
-![Tests Jest](screenshots/rapport-tests-jest.png)
+![Tests Jest](Billed-app-FR-Front/screenshots/rapport-tests-jest.png)
 
 #### Couverture globale - 89.76%
-![Couverture globale](screenshots/rapport-couverture-global.png)
+![Couverture globale](Billed-app-FR-Front/screenshots/rapport-couverture-global.png)
 
 
 
